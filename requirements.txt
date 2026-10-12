@@ -1,0 +1,5 @@
+spacy>=3.7,<4
+selenium>=4.15,<5
+pytest>=8,<10
+hypothesis>=6.90,<7
+matplotlib>=3.8,<4
